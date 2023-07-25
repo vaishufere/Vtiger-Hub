@@ -1,4 +1,4 @@
-# vTiger Hub
+# Vtiger-Hub
 Vtiger is an open-source customer relationship management (CRM) software that helps businesses manage their sales, marketing, and customer support processes. The project was first launched in 2004 by Sreenivas Kanumuru, and it has since grown into a popular and robust CRM solution used by organizations worldwide. 
 
 Key features of Vtiger CRM include:  
