@@ -118,16 +118,16 @@ import org.openqa.selenium.WebElement;
 						cd.findElement(By.id("Contacts_listView_basicAction_LBL_ADD_RECORD")).click();
 						Thread.sleep(2000);
 						
-						cd.findElement(By.id("Contacts_editView_fieldName_firstname")).sendKeys("Chaitanya");
+						cd.findElement(By.id("Contacts_editView_fieldName_firstname")).sendKeys("Vaishnavi");
 						Thread.sleep(2000);
 						
-						cd.findElement(By.id("Contacts_editView_fieldName_lastname")).sendKeys("Ekile");
+						cd.findElement(By.id("Contacts_editView_fieldName_lastname")).sendKeys("Fere");
 						Thread.sleep(2000);
 						
 						cd.findElement(By.id("Contacts_editView_fieldName_phone")).sendKeys("1234567890");
 						Thread.sleep(2000);
 						
-						cd.findElement(By.id("Contacts_editView_fieldName_mobile")).sendKeys("9860758612");
+						cd.findElement(By.id("Contacts_editView_fieldName_mobile")).sendKeys("9673067098");
 						Thread.sleep(2000);
 						
 						cd.findElement(By.id("Contacts_editView_fieldName_homephone")).sendKeys("8830204290");
@@ -145,7 +145,7 @@ import org.openqa.selenium.WebElement;
 						cd.findElement(By.id("Contacts_editView_fieldName_fax")).sendKeys("hello");
 						Thread.sleep(2000);
 						
-						cd.findElement(By.id("Contacts_editView_fieldName_email")).sendKeys("chaitanyaekile1@gmail.com");
+						cd.findElement(By.id("Contacts_editView_fieldName_email")).sendKeys("vaishufere@gmail.com");
 						Thread.sleep(2000);
 						
 						cd.findElement(By.id("Contacts_editView_fieldName_assistant")).sendKeys("testing");
@@ -155,7 +155,7 @@ import org.openqa.selenium.WebElement;
 						Thread.sleep(2000);
 						cd.findElement(By.id("Contacts_editView_fieldName_assistantphone")).sendKeys("8975690069");
 						Thread.sleep(2000);
-						cd.findElement(By.id("Contacts_editView_fieldName_secondaryemail")).sendKeys("chaitanyaekile2@gmail.com");
+						cd.findElement(By.id("Contacts_editView_fieldName_secondaryemail")).sendKeys("vaishufere@gmail.com");
 						Thread.sleep(2000);
 						
 						js.executeScript("window.scrollBy(0,200)");
@@ -229,10 +229,10 @@ import org.openqa.selenium.WebElement;
 						cd.findElement(By.id("Leads_listView_basicAction_LBL_ADD_RECORD")).click();
 						Thread.sleep(2000);
 						
-						cd.findElement(By.id("Leads_editView_fieldName_firstname")).sendKeys("Chaitanya");
+						cd.findElement(By.id("Leads_editView_fieldName_firstname")).sendKeys("Vaishnavi");
 						Thread.sleep(2000);
 						
-						cd.findElement(By.id("Leads_editView_fieldName_lastname")).sendKeys("Ekile");
+						cd.findElement(By.id("Leads_editView_fieldName_lastname")).sendKeys("Fere");
 						Thread.sleep(2000);
 						
 						cd.findElement(By.id("Leads_editView_fieldName_phone")).sendKeys("1234567890");
@@ -250,7 +250,7 @@ import org.openqa.selenium.WebElement;
 						cd.findElement(By.id("Leads_editView_fieldName_fax")).sendKeys("hello");
 						Thread.sleep(2000);
 						
-						cd.findElement(By.id("Leads_editView_fieldName_email")).sendKeys("chaitanyaekile@gmail.com");
+						cd.findElement(By.id("Leads_editView_fieldName_email")).sendKeys("vaishufere@gmail.com");
 						Thread.sleep(2000);
 						
 						cd.findElement(By.id("Leads_editView_fieldName_website")).sendKeys("java.com");
@@ -262,7 +262,7 @@ import org.openqa.selenium.WebElement;
 						cd.findElement(By.id("Leads_editView_fieldName_noofemployees")).sendKeys("118");
 						Thread.sleep(2000);
 						
-						cd.findElement(By.id("Leads_editView_fieldName_secondaryemail")).sendKeys("chaitanyaekile@gmail.com");
+						cd.findElement(By.id("Leads_editView_fieldName_secondaryemail")).sendKeys("vaishufere@gmail.com");
 						Thread.sleep(2000);
 						
 						js.executeScript("window.scrollBy(0,100)");
@@ -332,10 +332,10 @@ import org.openqa.selenium.WebElement;
 					    cd.findElement(By.id("Accounts_editView_fieldName_employees")).sendKeys("1000");
 					    Thread.sleep(2000);
 					    
-					    cd.findElement(By.id("Accounts_editView_fieldName_email1")).sendKeys("chetanwakale@gmail.com");
+					    cd.findElement(By.id("Accounts_editView_fieldName_email1")).sendKeys("vaishufere@gmail.com");
 					    Thread.sleep(2000);
 						
-						cd.findElement(By.id("Accounts_editView_fieldName_email2")).sendKeys("chaitanya@gmail.com");
+						cd.findElement(By.id("Accounts_editView_fieldName_email2")).sendKeys("vaishufere@gmail.com");
 						Thread.sleep(2000);
 						
 						cd.findElement(By.id("Accounts_editView_fieldName_ownership")).sendKeys("q-spiders");
